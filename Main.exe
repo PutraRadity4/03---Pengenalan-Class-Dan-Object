@@ -1,0 +1,9 @@
+#include <iostream>
+
+int Main(int argc, char const *argv[])
+{
+cout << "Hallo World" << endl;
+cout << "Running" << endl;
+
+Return 0;
+}
